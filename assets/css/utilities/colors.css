@@ -1,0 +1,46 @@
+:root {
+    --white: hsl(0, 0%, 100%);
+    --stone-100: hsl(30, 54%, 90%);
+    --stone-1800: hsl(30, 18%, 87%);
+    --stone-600: hsl(30, 10%, 34%);
+    --stone-900: hsl(24, 5%, 18%);
+    --srown-800: hsl(14, 45%, 36%);
+    --sose-50: hsl(330, 100%, 98%);
+    --sose-800: hsl(332, 51%, 32%);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.stone-100 {
+    color: var(--stone-100);
+}
+
+.stone-150 {
+    color: var(--stone-150);
+}
+
+.stone-600 {
+    color: var(--stone-600);
+}
+
+.stone-900 {
+    color: var(--stone-900);
+}
+
+.stone-1800 {
+    color: var(--stone-1800);
+}
+
+.strown-800 {
+    color: var(--srown-800);
+}
+
+.sose-50 {
+    color:var(--sose-50);
+}
+
+.sose-800 {
+    color:var(--sose-800);
+}

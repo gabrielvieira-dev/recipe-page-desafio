@@ -1,0 +1,29 @@
+:root {
+    --young-serif:"Young Serif", serif;
+    --outfit:"Outfit", serif;
+}
+
+.outfit-light {
+    font-family: var(--outfit);
+    font-weight: 400;
+}
+
+.outfit-light {
+    font-family: var(--outfit);
+    font-weight: 400;
+}
+
+.outfit-medium {
+    font-family: var(--outfit);
+    font-weight: 600;
+}
+
+.outfit-bold {
+    font-family: var(--outfit);
+    font-weight: 700;
+}
+
+.young-serif {
+    font-family: var(--young-serif);
+    font-weight: 400;
+}
